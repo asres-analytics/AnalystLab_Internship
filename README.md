@@ -1,39 +1,58 @@
-# 📊 AnalystLab Africa Internship Portfolio
+# AnalystLab Africa – Data Analytics Internship Portfolio
 
-## 👨‍💻 Asres Yelia
+## Asres Yelia
 
-Welcome to my Data Analytics Internship portfolio.  
-This repository documents my complete journey through the AnalystLab Africa Data Analytics Internship (Batch C), where I am building real-world skills in data analysis, visualization, and reporting.
+Welcome to my **Data Analytics Portfolio Repository**.
 
----
-
-# 🎯 Project Objective
-
-The main goal of this internship is to transform raw datasets into meaningful business insights using data analytics tools and techniques.
-
-By the end of this program, I aim to:
-- Become job-ready as a Data Analyst
-- Build a strong GitHub portfolio
-- Gain freelance experience on platforms like Upwork
-- Develop strong analytical and storytelling skills with data
+This project documents my complete learning journey through the **AnalystLab Africa Data Analytics Internship (Batch C)**, where I am building real-world skills in data analysis, visualization, and data storytelling.
 
 ---
 
-# 📊 Internship Overview
+# About This Portfolio
 
-This internship covers end-to-end Data Analytics skills:
+This repository showcases **end-to-end data analytics skills**, from raw data to business insights.
 
+It includes:
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
-- SQL for Data Analysis
-- Data Visualization (Power BI / Tableau)
+- SQL Data Analysis
+- Power BI Dashboards
 - Python Analytics
 - ETL Pipelines
-- Capstone Project
+- Final Capstone Project
 
 ---
 
-# 📁 Repository Structure
+# Internship Goal
+
+My goal is to become a **job-ready Data Analyst** capable of:
+
+- Working with real-world datasets
+- Extracting meaningful business insights
+- Building dashboards and reports
+- Automating data pipelines
+- Presenting data-driven decisions
+
+---
+
+# Skills Demonstrated
+
+### Programming & Tools
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL (MySQL / PostgreSQL basics)
+- Power BI
+- Git & GitHub
+
+### Data Skills
+- Data Cleaning & Wrangling
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Business Reporting
+- ETL Workflow Understanding
+
+---
+
+# Repository Structure
 ```
 AnalystLab_Internship/
 │
@@ -105,73 +124,96 @@ AnalystLab_Internship/
 
 ```
 
-
-
-
-
 ---
 
-# 📌 Week 1–2 Project: Data Cleaning & EDA
+# Weekly Progress
 
-### Datasets Used:
-- Online Retail Dataset
-- Netflix Titles Dataset
-
-### Key Activities:
-- Data loading and inspection
+##  Week 1–2: Data Cleaning & EDA
+- Dataset cleaning (Netflix, Online Retail)
 - Handling missing values
 - Removing duplicates
-- Exploratory Data Analysis (EDA)
-- Data visualization
-- Insight generation
-
-### Folder:
-`Week_01_Data_Cleaning_EDA/`
+- Exploratory analysis
+- Data visualization insights
 
 ---
 
-# 🧠 Skills Demonstrated
-
-- Python (Pandas, NumPy)
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis (EDA)
-- Data Visualization (Matplotlib, Seaborn)
-- Git & GitHub Version Control
-- Jupyter Notebook Reporting
+## Week 3: SQL Analysis
+- SELECT queries
+- JOIN operations
+- GROUP BY & aggregations
+- Business data queries
 
 ---
 
-# 📈 Key Learning Outcomes
-
-Through this internship, I am learning how to:
-- Work with real-world messy datasets
-- Extract meaningful insights from data
-- Communicate findings clearly
-- Structure professional analytics projects
-- Build a data portfolio for career growth
+## Week 4: Power BI
+- Interactive dashboards
+- KPI tracking
+- Business reporting visuals
 
 ---
 
-# 🚧 Project Status
-
-🟡 **In Progress – Week 1–2 Completed (EDA Phase)**  
-Remaining: SQL → Dashboards → Capstone Project
-
----
-
-# 🚀 Career Goal
-
-My goal is to become a professional Data Analyst and work on real-world freelance and remote opportunities, especially on platforms like Upwork.
+## Week 5–8: Advanced Analytics
+- Business case studies
+- Python advanced analysis
+- ETL automation pipelines
+- Final capstone project
 
 ---
 
-# 📬 Contact
+# Featured Projects
 
-- GitHub: https://github.com/asres-analytics
-- Internship: AnalystLab Africa (Batch C)
+### Netflix Data Analysis
+- Trends in content distribution
+- Country-wise analysis
+- Content type insights
+
+### Online Retail Analysis
+- Customer behavior analysis
+- Sales trend insights
+- Product performance
 
 ---
 
-# ⭐ Note
+# Key Learning Outcomes
 
-This repository will be continuously updated throughout the internship journey to reflect my growth, projects, and learning progress.
+Through this internship, I have learned how to:
+
+✔ Work with messy real-world datasets  
+✔ Clean and transform data efficiently  
+✔ Extract business insights from data  
+✔ Build dashboards for decision-making  
+✔ Write SQL queries for analysis  
+✔ Structure professional data projects  
+
+---
+
+# Career Objective
+
+I am actively preparing for a career as a:
+
+> **Data Analyst | Business Intelligence Analyst | Freelance Data Consultant**
+
+My focus is on building a strong **Upwork-ready portfolio** and remote job opportunities.
+
+---
+
+# Contact
+
+- GitHub: https://github.com/asres-analytics  
+- Internship Program: AnalystLab Africa (Batch C)
+
+---
+
+# Future Improvements
+
+- Add interactive dashboards
+- Publish case study reports
+- Add Power BI portfolio screenshots
+- Upload capstone presentation video
+- Optimize for recruiter visibility
+
+---
+
+#  Status
+
+ Internship In Progress — Actively Updating Weekly
