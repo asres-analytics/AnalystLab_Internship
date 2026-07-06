@@ -35,10 +35,13 @@ By the end of this internship, I aim to:
 
 For detailed learning goals, see:
 
-📄 **docs/01_Internship_Goals.md**
+- [Internship Goals](./docs/01_Internship_Goals.md)
 
----
+For detials about learning Journal see:
+- [Learing Journal](./docs/03_Learning_Journal.md)
 
+for Resources see:
+- [Resource](./docs/04_Resources.md)
 # 🚀 About This Repository
 
 This repository showcases my complete data analytics workflow throughout the internship.

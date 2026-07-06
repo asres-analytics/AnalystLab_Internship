@@ -1,13 +1,13 @@
 # Resources – Data Analytics Internship
 
-## 👤 Intern
-**Name:** Asres Yelia  
+## Intern
+**Name:** Asres Gamu Yelia  
 **Program:** AnalystLab Africa Internship (Batch C)  
 **Duration:** 1 July – 1 September  
 
 ---
 
-# 📘 Purpose of This Document
+# Purpose of This Document
 
 This document contains all tools, libraries, datasets, and learning resources used throughout the internship.
 
@@ -15,12 +15,12 @@ It ensures transparency, reproducibility, and professional documentation of the 
 
 ---
 
-# 🧰 Tools & Technologies Used
+# Tools & Technologies Used
 
-## 🐍 Programming Language
+## Programming Language
 - Python
 
-## 📦 Python Libraries
+## Python Libraries
 - Pandas → Data cleaning and analysis
 - NumPy → Numerical operations
 - Matplotlib → Data visualization

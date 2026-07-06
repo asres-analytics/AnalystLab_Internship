@@ -1,8 +1,11 @@
+]
+
 # Internship Roadmap – AnalystLab Africa (Batch C)
 
 ## 👤 Intern
-**Name:** Asres Yelia  
-**Duration:** 1 July – 1 September  
+
+**Name:** Asres Yelia
+**Duration:** 1 July – 1 September
 **Program:** Data Analytics Internship (Batch C)
 
 ---
@@ -16,9 +19,11 @@ This roadmap outlines my 8-week journey in the AnalystLab Africa Data Analytics 
 # 📅 Week-by-Week Plan
 
 ## 🟢 Week 1–2: Data Cleaning & EDA
+
 **Goal:** Understand and clean raw datasets, perform exploratory data analysis.
 
 Tasks:
+
 - Load datasets using Pandas
 - Understand dataset structure
 - Handle missing values
@@ -28,6 +33,7 @@ Tasks:
 - Generate insights
 
 Deliverables:
+
 - Cleaned dataset (CSV)
 - Jupyter Notebook
 - Visualizations
@@ -36,30 +42,36 @@ Deliverables:
 ---
 
 ## 🟡 Week 3: SQL & Data Querying
+
 **Goal:** Learn data extraction using SQL.
 
 Tasks:
+
 - Write SQL queries
 - Filter and aggregate data
 - Join tables
 - Extract insights
 
 Deliverables:
+
 - SQL script file
 - Query explanations
 
 ---
 
 ## 🔵 Week 4: Data Visualization (Power BI / Tableau)
+
 **Goal:** Build interactive dashboards.
 
 Tasks:
+
 - Import cleaned data
 - Create KPIs
 - Build charts and dashboards
 - Design interactive reports
 
 Deliverables:
+
 - Dashboard file
 - Screenshots
 - Insights report
@@ -67,43 +79,52 @@ Deliverables:
 ---
 
 ## 🟣 Week 5: Business Analytics Case Study
+
 **Goal:** Solve a real business problem using data.
 
 Tasks:
+
 - Define business problem
 - Analyze dataset
 - Extract insights
 - Provide recommendations
 
 Deliverables:
+
 - Report (3–5 pages)
 - Presentation slides
 
 ---
 
 ## 🟠 Week 6: Advanced Python Analysis
+
 **Goal:** Improve advanced data analysis skills.
 
 Tasks:
+
 - Feature engineering
 - Time-series analysis
 - Advanced visualization
 
 Deliverables:
+
 - Python notebook
 - Insight report
 
 ---
 
 ## 🔴 Week 7: Data Pipelines & Automation
+
 **Goal:** Learn ETL and automation concepts.
 
 Tasks:
+
 - Build ETL pipeline
 - Automate data processing
 - Save processed datasets
 
 Deliverables:
+
 - Python script
 - GitHub repository update
 - Demo video
@@ -111,15 +132,18 @@ Deliverables:
 ---
 
 ## ⚫ Week 8: Capstone Project
+
 **Goal:** Complete full end-to-end data project.
 
 Tasks:
+
 - Full data analysis project
 - Dashboard creation
 - Final report
 - Presentation
 
 Deliverables:
+
 - Final report
 - Dashboard
 - GitHub portfolio
